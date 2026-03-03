@@ -27,3 +27,7 @@ There is a Julia language cheat sheet I put together while working on this proje
 ## WTF is Döner.jl?
 
 A combinatorial pairing problem I challenged my university friends to solve, because I couldn't crack it without brute force. The bounty was one Döner Kebab. 
+
+<br>
+
+> Please also check out the [Go](https://github.com/Captainbommel/pongstrong-go-app) and [Flutter](https://github.com/Captainbommel/pongstrong-flutter-app) versions, both are actually usable!
