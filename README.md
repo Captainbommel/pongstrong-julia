@@ -23,3 +23,7 @@ The demo will simulate a full group stage, prints standings for each group, and 
 ## Cookbook
 
 There is a Julia language cheat sheet I put together while working on this project. Check out the seperate [Readme](cookbook/README.md) I made for this as well as the implementation in [cookbook.jl](cookbook/cookbook.jl).
+
+## WTF is Döner.jl?
+
+A combinatorial pairing problem I challenged my university friends to solve, because I couldn't crack it without brute force. The bounty was one Döner Kebab. 
